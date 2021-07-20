@@ -4,11 +4,12 @@ title:  "Things You Wish You Knew Before Studying SAT Writing"
 categories: [ Resources ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+If you’ve taken a few SAT writing tests, you’re probably realizing that it’s not as easy as it’s cracked up to be. At first glance, it seems like a test that doesn’t require much of a strategy, unlike reading or math. A lot of it seems like, well, common sense. So why is it so difficult to get a perfect score? And what is with all the complicated punctuations, anyway? Does the absence of a semicolon really matter?! 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+What most people don’t understand is that the writing test assesses your understanding of the conventions of English and composition -- in short, it evaluates your ability to understand and revise academic texts. Those seemingly arbitrary commas and dashes? They all serve specific purposes. 
 
-Jekyll also offers powerful support for code snippets:
+Here we list five things many students say they wished they knew about the SAT writing test: 
+
 
 {% highlight ruby %}
 def print_hi(name)
