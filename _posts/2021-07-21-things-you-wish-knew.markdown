@@ -28,7 +28,7 @@ The world of grammar is as vast as it is wide, but the great thing is that you o
 #### There are correct answers, and then there are more correct answers
 Sometimes, more than one answer option might be grammatically correct, but efficiency matters! After all, good writing is also about being succinct. If you can say “I know I can do well on this test,” why say “I am confident with the knowledge that I will be able to successfully demonstrate my ability on this test?” 
 
-[![Alternate Text]({https://unsplash.com/photos/dhZtNlvNE8M})]({https://www.youtube.com/watch?v=AGqEdMIcbwI} "Link Title")
+[![Alternate Text](assets/images/home.jpg)]({https://www.youtube.com/watch?v=AGqEdMIcbwI} "Link Title")
 
 
 If this list describes some of the things you’ve been thinking, no worries. You’ve taken a step in the right direction, and now maybe it’s time you got an extra push to get you over the finish line. Let me help you -- we’ve got this! 
