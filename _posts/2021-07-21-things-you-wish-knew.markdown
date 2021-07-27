@@ -2,8 +2,8 @@
 layout: post
 title:  "Things You Wish You Knew Before Studying SAT Writing"
 categories: [ Resources ]
-author: prestigei
-image: 
+author: 
+image: assets/images/demo1.jpg
 tags: [test]
 ---
 If you’ve taken a few SAT writing tests, you’re probably realizing that it’s not as easy as it’s cracked up to be. At first glance, it seems like a test that doesn’t require much of a strategy, unlike reading or math. A lot of it seems like, well, common sense. So why is it so difficult to get a perfect score? And what is with all the complicated punctuations, anyway? Does the absence of a semicolon really matter?! 
@@ -29,7 +29,6 @@ The world of grammar is as vast as it is wide, but the great thing is that you o
 #### There are correct answers, and then there are more correct answers
 Sometimes, more than one answer option might be grammatically correct, but efficiency matters! After all, good writing is also about being succinct. If you can say “I know I can do well on this test,” why say “I am confident with the knowledge that I will be able to successfully demonstrate my ability on this test?” 
 
-[![Alternate Text](assets/images/home.jpg)]({https://www.youtube.com/watch?v=AGqEdMIcbwI} "Link Title")
 
 
 If this list describes some of the things you’ve been thinking, no worries. You’ve taken a step in the right direction, and now maybe it’s time you got an extra push to get you over the finish line. Let me help you -- we’ve got this! 
